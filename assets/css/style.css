@@ -1,0 +1,38 @@
+body{
+    background-image: url('../images/chicago-1804480_1920.jpg');
+   
+}
+
+.card{
+    margin:20px;
+    color:#FFFFFF;
+    border-color: #BD0000;
+    opacity: 0.9;
+}
+
+.card-header{
+   background-color: #BD0000; 
+   font-weight: 600;
+}
+
+.card-body{
+    color:#BD0000;
+    font-weight: 600;
+}
+
+#submit-btn{
+    background-color:#BD0000;
+    border-color: #BD0000;
+    font-weight: 600;
+}
+
+.jumbotron{
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+h1{
+    color:#BD0000;
+    font-family: 'PT Serif', serif;
+    font-family: 'Oswald', sans-serif;
+}
